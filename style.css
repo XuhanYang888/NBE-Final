@@ -38,6 +38,16 @@ h3 {
   pointer-events: none;
 }
 
+.cta-text {
+  color: var(--accent-gold);
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 /* --- Hero Section --- */
 #hero {
   height: 100vh;
